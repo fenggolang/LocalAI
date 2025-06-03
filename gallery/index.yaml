@@ -152,5 +152,5 @@
       model: Qwen3-0.6B.Q4_K_M.gguf
   files:
     - filename: Qwen3-0.6B.Q4_K_M.gguf
-      sha256: dc4503da5d7cc7254055a86cd90e1a8c9d16c6ac71eb3a32b34bf48a1f4e0999
+      sha256: ec691a95ea176bfd9a7839f3347bb5fece084a4665813f6db199ea58ffb53945
       uri: https://www.modelscope.cn/models/unsloth/Qwen3-0.6B-GGUF/resolve/master/Qwen3-0.6B-Q4_K_M.gguf
